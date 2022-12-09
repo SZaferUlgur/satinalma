@@ -1,0 +1,1 @@
+DELETE FROM [dbo].[tblLokasyon] WHERE id=@id

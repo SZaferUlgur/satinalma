@@ -1,0 +1,1 @@
+DELETE FROM [dbo].[tblDTSFatura] WHERE id=@id

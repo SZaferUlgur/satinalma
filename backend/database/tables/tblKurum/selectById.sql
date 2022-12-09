@@ -1,0 +1,10 @@
+SELECT [id]
+      ,[kurumAdi]
+      ,[adres]
+      ,[telefon]
+      ,[infoMail]
+      ,[vergiDairesi]
+      ,[vergiNo]
+      ,[ilIlce]
+  FROM [dbo].[tblKurum]
+  WHERE [id] = @id

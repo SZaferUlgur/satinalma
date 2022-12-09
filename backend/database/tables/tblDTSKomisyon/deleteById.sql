@@ -1,0 +1,1 @@
+DELETE FROM [dbo].[tblDTSKomisyon] WHERE id=@id

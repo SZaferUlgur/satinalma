@@ -1,0 +1,1 @@
+DELETE FROM [dbo].[tblSektor] WHERE id=@id

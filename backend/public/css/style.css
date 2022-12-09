@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css?family=Share+Tech+Mono&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-family: 'Share Tech Mono', monospace;
+    font-size: 2.5rem;
+}
+
+body {
+    min-height: 99vh;
+    background-color: #000;
+    background-image: url(./toucan.png);
+    background-repeat: no-repeat;
+    background-position: 145px 85px;
+    color: whitesmoke;
+    display: grid;
+    place-content: center;
+    padding: 1rem;
+}

@@ -1,0 +1,1 @@
+SELECT [id] , [tarih], [dtsId], [istekUrun], [adet] FROM [dbo].[tblDTSOrder] WHERE [dtsId]=@id

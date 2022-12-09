@@ -1,0 +1,1 @@
+DELETE FROM [dbo].[tblDTSOrder] WHERE id=@id
